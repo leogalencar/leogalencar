@@ -1,5 +1,5 @@
-## Estudante de programação e tecnologia
-<i><h4>Apenas mais um completamente apaixonado pela tecnologia</h4></i>
+## Leonardo Alencar
+<i><h4>Estudante de programação e tecnologia.</h4></i>
 ##
 - 👩‍💻 Experiência em:
   - <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
