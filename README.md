@@ -11,6 +11,7 @@
   - <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
 - 📚 Atualmente estudando Python e C#.
 - 🚀 Técnico em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC).
+- 🚀 Cursando Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC).
 <br>
 <div align="center">
   <a href="https://github.com/leogalencar">
