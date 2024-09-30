@@ -14,7 +14,7 @@
 
 ### Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cs,css,electron,figma,flask,git,html,java,js,linux,mysql,nodejs,ps,postman,py,react,spring,sqlite,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,css,electron,figma,flask,git,html,java,js,linux,mysql,nodejs,ps,postman,py,react,spring,sqlite,tailwind,ts" />
 </p>
 
 <div align="center">
