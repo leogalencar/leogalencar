@@ -19,6 +19,6 @@
 
 <div align="center">
   <a href="https://github.com/leogalencar">
-  <img height="180em" src="https://github-readme-stats-leonardo-alencars-projects.vercel.app/api?username=leogalencar&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-leonardo-alencars-projects.vercel.app/api/top-langs/?username=leogalencar&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api?username=leogalencar&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api/top-langs/?username=leogalencar&layout=compact&langs_count=7&theme=aura"/>
 </div>
