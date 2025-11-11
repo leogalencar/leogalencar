@@ -6,10 +6,10 @@
 
 <hr style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted))">
 
-- 🌱 I’m currently learning **Angular, Java and C#**.
+- 🌱 I’m currently learning **Next.js, Drizzle and Node**.
 - 🚀 I have experience in **HTML, CSS, JS, TS, ReactJS, Angular, Java, Spring, Flask, C and NodeJS**.
 - 🤓 Pursuing a Bachelor's degree in Systems Analysis and Development at the **[Faculdade de Tecnologia do Estado de São Paulo](https://fatecitu.cps.sp.gov.br/)**.
-- 🎉 Fluent in English with **[TOEIC](https://toeicglobal.com/)** certification.
+- 🎉 Fluent (C1.1) in English with [ELS](https://www.els.edu/), [VTest](https://www.vtest.com/) and **[TOEIC](https://toeicglobal.com/)** certifications.
 - ⚡ Fun fact: _I ❤ souls-like games_.
 
 ### Technologies
