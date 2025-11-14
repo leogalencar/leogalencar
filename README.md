@@ -6,15 +6,15 @@
 
 <hr style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted))">
 
-- 🌱 I’m currently learning **Next.js, Drizzle and Node**.
-- 🚀 I have experience in **HTML, CSS, JS, TS, ReactJS, Angular, Java, Spring, Flask, C and NodeJS**.
+- 🌱 I’m currently learning **Next.js, Docker and Node.js**.
+- 🚀 I have experience in **HTML, CSS, JS, TS, React, Angular, Java, Spring, Flask, C and Node.js**.
 - 🤓 Pursuing a Bachelor's degree in Systems Analysis and Development at the **[Faculdade de Tecnologia do Estado de São Paulo](https://fatecitu.cps.sp.gov.br/)**.
 - 🎉 Fluent (C1.1) in English with [ELS](https://www.els.edu/), [VTest](https://www.vtest.com/) and **[TOEIC](https://toeicglobal.com/)** certifications.
 - ⚡ Fun fact: _I ❤ souls-like games_.
 
 ### Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,css,electron,figma,flask,git,html,java,js,linux,mysql,nodejs,ps,postman,py,react,spring,sqlite,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,css,docker,electron,figma,flask,git,html,java,js,linux,mysql,nextjs,nginx,nodejs,prisma,ps,postman,py,r,react,spring,sqlite,tailwind,ts,vim" />
 </p>
 
 <div align="center">
